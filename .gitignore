@@ -1,0 +1,20 @@
+# Build
+/target
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# AI assistants
+.agent/
+.agents/
+.claude/
+.gemini/
+skills-lock.json
+
+# Tutorials (symlink to Obsidian vault)
+tutorials
